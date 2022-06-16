@@ -13,7 +13,9 @@ appsettings.json
 
 $ docker build -t [repository]:[tag] .
 
-$ docker run -d -p 80:80 [repository]:[tag]
+$ docker run -d -p 80:80 [repository]:[tag] //http:
+
+$ docker run -d -p 443:443 [repository]:[tag] //https:
 
 ## Logs
 
