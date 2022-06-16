@@ -27,48 +27,6 @@ namespace UAF_Frontend_Registration
         {
             services.AddControllersWithViews();
 
-            #region Comment New OIDC
-            /*services.AddAuthentication(options =>
-            {
-                options.DefaultScheme = "cookie";
-                options.DefaultChallengeScheme = "oidc";
-            })
-                 .AddCookie("cookie")
-                 .AddOpenIdConnect("oidc", options =>
-                 {
-                     //options.Authority = "https://authen-server-uat.teda.th";
-                     //options.Authority = "https://api-uat.teda.th/uafserver/oidp";
-                     options.Authority = "https://localhost:44365";
-                     //options.Authority = "https://imauth.bora.dopa.go.th/";
-                     //options.ClientId = "Z3VMcHdteWRKWGJjQXNRRnlNdGwxeUtkRFdqN2tZYnE=";
-                     //options.ClientSecret = "a2FkaHdmenVUVXR5MjR6cXJNS2JoR1R3VEx2OHhUcThkTFlBbUN1Vw==";
-                     options.ClientId = "BackOfficeTest";
-                     options.ClientSecret = "2PD0BM3CNX1f0phU";
-                     //options.ClientId = "275e65ba-d0b0-4d37-a779-9c8fbc4d3927";
-                     //options.ClientSecret = "82ecb975-a1da-4a86-9162-687a91d80cfb";
-
-                     options.ResponseType = "code";
-                     //options.UsePkce = true;
-                     options.ResponseMode = "query";
-
-                     //options.Scope.Add("backofficeApi.read");
-                     options.Scope.Clear();
-                     //options.Scope.Add("th_fname");
-                     //options.Scope.Add("en_fname");
-                     //options.Scope.Add("th_lname");
-                     //options.Scope.Add("en_lname");
-                     //options.Scope.Add("pid");
-                     options.Scope.Add("openid");
-                     options.SaveTokens = true;
-
-                     //options.TokenValidationParameters = new TokenValidationParameters
-                     //{
-                     //    NameClaimType = "name",
-                     //    RoleClaimType = "role"
-                     //};
-                 });*/
-            #endregion
-
             services.AddSession(options =>
             {
                 options.Cookie.Name = ".dopaAuthen.Session";
