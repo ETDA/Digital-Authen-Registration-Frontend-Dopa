@@ -1,0 +1,407 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+    color: #0366d6;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.btn-login {
+    color: #584B9F;
+    background-color: #EEEEEE;
+    border-color: #EEEEEE;
+    box-shadow: #FFC107;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 1.5rem;
+    width: 250px;
+    height: 45px;
+    font-family: kanit;
+}
+
+    .btn-login:hover {
+        /*background-color: #FFFFFF;
+        color: white;*/
+        box-shadow: 0px 8px 8px -6px rgba(0,0,0,.8);
+    }
+
+.btn-reg {
+    color: #584B9F;
+    background-color: #FFC107;
+    border-color: #FFC107;
+    box-shadow: #FFC107;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 1.5rem;
+    width: 250px;
+    height: 45px;
+    font-family: kanit;
+}
+
+    .btn-reg:hover {
+        /*background-color: goldenrod;
+        border-color: goldenrod;
+        color: mediumpurple;*/
+        box-shadow: 0px 8px 8px -6px rgba(0,0,0,.8);
+    }
+
+.btn-error {
+    color: #D15338;
+    background-color: #EEEEEE;
+    border-color: #EEEEEE;
+    box-shadow: #FFC107;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 1.5rem;
+    width: 250px;
+    height: 45px;
+}
+    .btn-error:hover {
+        background-color: #d9534f;
+        border-color: #d9534f;
+        /*color: mediumpurple;*/
+        box-shadow: 0px 8px 8px -6px rgba(0,0,0,.8);
+    }
+
+.btn-discard {
+    color: #EEEEEE;
+    background-color: #d9534f;
+    border-color: #d9534f;
+    box-shadow: #FFC107;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 1.5rem;
+    width: 150px;
+    height: 45px;
+}
+
+    .btn-discard:hover {
+        background-color: #EEEEEE;
+        border-color: #EEEEEE;
+        color: #d9534f;
+        box-shadow: 0px 8px 8px -6px rgba(0,0,0,.8);
+    }
+
+.btn-complete {
+    color: #EEEEEE;
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+    box-shadow: #5cb85c;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 1.5rem;
+    width: 200px;
+    height: 45px;
+}
+
+    .btn-complete:hover {
+        background-color: #EEEEEE;
+        border-color: #EEEEEE;
+        color: #5cb85c;
+        box-shadow: 0px 8px 8px -6px rgba(0,0,0,.8);
+    }
+
+.btn-qrexp {
+    color: #EEEEEE;
+    background-color: #0275d8;
+    border-color: #0275d8;
+    box-shadow: #0275d8;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 1.5rem;
+    width: 200px;
+    height: 45px;
+}
+
+    .btn-qrexp:hover {
+        background-color: #EEEEEE;
+        border-color: #EEEEEE;
+        color: #0275d8;
+        box-shadow: 0px 8px 8px -6px rgba(0,0,0,.8);
+    }
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    color: #ffffff;
+    display: flex;
+    padding-top: 40px;
+    background: linear-gradient(132.81deg, #584b9f 23.54%, #844b9f 91.42%), linear-gradient(0deg, #584b9f, #584b9f);
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; /* Vertically center the text there */
+}
+
+.responsive2 {
+    width: 250px;
+    height: 190px;
+}
+
+.responsive3 {
+    width: auto;
+    height: 120px;
+}
+
+.font {
+    font-family: kanit;
+}
+
+.form-control-reg {
+    display: block;
+    width: 100%;
+    height: 45px;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #584B9F;
+    background-color: #FFFFFFBF;
+    background-clip: padding-box;
+    border: 2px #FFFFFFBF;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.5rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+    .form-control-reg:focus {
+        color: #212529;
+        background-color: #EEEEEE;
+        border-color: #FFFFFFBF;
+        outline: 0;
+        box-shadow: 0 0 0 0.25rem #FFFFFFBF;
+    }
+
+.loading {
+    position: fixed;
+    z-index: 999;
+    overflow: show;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+}
+
+    /* Transparent Overlay */
+    .loading:before {
+        content: '';
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(152, 86, 158, 0.21);
+        backdrop-filter: blur(5px);
+    }
+
+    /* :not(:required) hides these rules from IE9 and below */
+    .loading:not(:required) {
+        /* hide "loading..." text */
+        font: 0/0 a;
+        color: transparent;
+        text-shadow: none;
+        background-color: transparent;
+        border: 0;
+    }
+
+        .loading:not(:required):after {
+            content: '';
+            display: block;
+            font-size: 10px;
+            width: 100px;
+            height: 100px;
+            margin-top: -0.5em;
+            border: 15px solid #288cfb;
+            border-radius: 100%;
+            border-bottom-color: transparent;
+            -webkit-animation: spinner 1s linear 0s infinite;
+            animation: spinner 1s linear 0s infinite;
+        }
+
+
+.loading-wait {
+    position: fixed;
+    z-index: 999;
+    overflow: show;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 80px;
+    height: 80px;
+}
+
+    /* Transparent Overlay */
+    .loading-wait:before {
+        content: '';
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(152, 86, 158, 0.21);
+        /*backdrop-filter: blur(5px);*/
+    }
+
+    /* :not(:required) hides these rules from IE9 and below */
+    .loading-wait:not(:required) {
+        /* hide "loading..." text */
+        font: 0/0 a;
+        color: transparent;
+        text-shadow: none;
+        background-color: transparent;
+        border: 0;
+    }
+
+        .loading-wait:not(:required):after {
+            content: '';
+            display: block;
+            font-size: 10px;
+            width: 100px;
+            height: 100px;
+            margin-top: -0.5em;
+            border: 15px solid #FFC107;
+            border-radius: 100%;
+            border-bottom-color: transparent;
+            -webkit-animation: spinner 1s linear 0s infinite;
+            animation: spinner 1s linear 0s infinite;
+        }
+/* Animation */
+
+@-webkit-keyframes spinner {
+    0% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@-moz-keyframes spinner {
+    0% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@-o-keyframes spinner {
+    0% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes spinner {
+    0% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}

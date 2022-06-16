@@ -1,0 +1,61 @@
+﻿@model UAF_Frontend_Registration.Models.User
+
+@using Microsoft.AspNetCore.Authentication
+@using Microsoft.AspNetCore.Http;
+@using System.IdentityModel.Tokens.Jwt
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<partial name="_Nav" />
+
+<br />
+<br />
+
+<div style="text-align: center">
+    <img class="responsive3"
+         src="~/ogo_digiAuthen_3.png"
+         alt="" />
+</div>
+
+<br />
+<br />
+
+<div class="row justify-content-md-center">
+    <div class="col-md-6">
+        <div class="card-body">
+
+            <p style="text-align: center;font-size: 25px;color: #EEEEEE" class="font">
+                Please fill in your email
+            </p>
+
+            @using (Html.BeginForm("Register", "Home", FormMethod.Post))
+            {
+
+                <div class="form-group">
+                    @*@Html.LabelFor(m => m.Email, new { @class = "font" })*@
+                    @Html.TextBoxFor(m => m.Email, "", new { @class = "form-control-reg", @placeholder = "xxxx@email.com", required = "required", type = "email", @id = "usrName" })
+                </div>
+                <br />
+                <div class="form-group" style="text-align:center">
+                    <input type="submit" name="submit" class="btn btn-reg font" value="Click here to Registration" onclick="getInputValue();" />
+                </div>
+
+                <p id="show_spiner"></p>
+                <script>
+                    function getInputValue() {
+                        var usrName = document.getElementById("usrName").value;
+
+                        if (usrName !== '' && usrName.includes('@@')) {
+                            document.getElementById("show_spiner").innerHTML = "<div class=\"loading\"></div>";
+                        }
+                    }
+                </script>
+
+
+            }
+        </div>
+    </div>
+</div>

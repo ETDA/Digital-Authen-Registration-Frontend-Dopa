@@ -1,0 +1,33 @@
+﻿@model UAF_Frontend_Registration.Models.User
+
+@using Microsoft.AspNetCore.Http;
+
+@{
+    ViewData["Title"] = "Register Success";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<partial name="_Nav" />
+
+<br />
+<br />
+<br />
+
+<div class="text-center">
+    <h1 class="display-4">Registration Success!</h1>
+</div>
+
+<br />
+<br />
+
+@using (Html.BeginForm("Register", "Home", FormMethod.Get))
+{
+
+    <div class="text-center">
+        <div class="d-grid gap-2 col-6 mx-auto">
+            <input type="submit" name="submit" class="btn btn-complete" value="Back to Home" />
+        </div>
+    </div>
+
+}
+

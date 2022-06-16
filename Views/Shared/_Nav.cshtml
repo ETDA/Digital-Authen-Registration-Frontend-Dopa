@@ -1,0 +1,37 @@
+﻿
+@using Microsoft.AspNetCore.Authentication
+@using Microsoft.AspNetCore.Http;
+
+<div class="nav-page">
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark border-bottom mb-3">
+        <div class="container">
+            <a class="navbar-brand text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                        <a class="nav-link text-light" style="font-size: 20px" asp-area="" asp-controller="Home" asp-action="Privacy">Contact</a>
+                    </li>
+                </ul>
+
+                @using (Html.BeginForm("Logout", "Home", FormMethod.Get))
+                {
+                    if (!string.IsNullOrEmpty(@Context.Session.GetString("en_fullname")))
+                    {
+                        <ul class="navbar-nav flex-grow-1">
+                            <li class="nav-brand">
+                                <a class="navbar-text text-warning" style="font-size: 20px">@Context.Session.GetString("en_fullname")</a>
+                            </li>
+                            <li class="nav-brand">
+                                <a class="nav-link text-light" style="font-size: 20px" asp-area="" asp-controller="Home" asp-action="Logout">&nbsp;&nbsp;Logout</a>
+                            </li>
+                        </ul>
+                    }
+                }
+            </div>
+        </div>
+    </nav>
+</div>

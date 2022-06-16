@@ -1,0 +1,64 @@
+﻿@model UAF_Frontend_Registration.Models.User
+
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row justify-content-md-center">
+
+    <div class="col-md-6">
+
+        <p style="text-align: center">
+            <img src="~/ogo_digiAuthen_2.png" width="250" height="190"
+                 alt="" />
+        </p>
+        <br />
+        <p style="text-align: center;font-size: 25px;color: #EEEEEE" class="font">
+            Please Login by D.Dopa
+        </p>
+
+        @if (!string.IsNullOrEmpty(@Model.login_status))
+        {
+            <div class="alert alert-danger d-flex align-items-center" id="loginAlert">
+                @Model.login_status
+            </div>
+            <script type="text/javascript">
+                setTimeout(function () {
+
+                    // Closing the alert
+                    $('#loginAlert').alert('close');
+                }, 7000);
+            </script>
+        }
+
+        <div class="card-body">
+            @using (Html.BeginForm("Login", "Home", FormMethod.Post))
+            {
+                <br />
+                <p style="text-align: center">
+                    <img src="~/ddopa_logo.png" width="120" height="120"
+                         alt="" />
+                </p>
+                <br />
+
+                <div class="form-group" style="text-align:center">
+                    <input type="submit" name="submit" value="Click for Scan QR Code" class="btn btn-login" onclick="getInputValue();" />
+                </div>
+                <div style="text-align: center;font-size: 20px;color: white" class="font">
+                    Helpdesk Support : helpdesk@etda.or.th
+                </div>
+
+                <p id="show_spiner"></p>
+                <script>
+                    function getInputValue() {
+                        document.getElementById("show_spiner").innerHTML = "<div class=\"loading\"></div>";
+                    }
+                </script>
+            }
+        </div>
+    </div>
+</div>
+
+

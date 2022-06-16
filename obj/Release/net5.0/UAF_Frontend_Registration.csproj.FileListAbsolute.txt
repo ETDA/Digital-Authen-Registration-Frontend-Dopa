@@ -1,0 +1,1344 @@
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\appsettings.Development.json
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\appsettings.json
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.exe
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.deps.json
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.json
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.dev.json
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.Views.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Humanizer.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\Novell.Directory.Ldap.NETStandard.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.CodeDom.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.ComponentModel.Composition.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.ComponentModel.Composition.Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Composition.AttributedModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Composition.Convention.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Composition.Hosting.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Composition.Runtime.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Composition.TypedParts.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Data.OleDb.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Diagnostics.EventLog.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.DirectoryServices.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.DirectoryServices.AccountManagement.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.IO.Packaging.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Management.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Private.ServiceModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Reflection.Context.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.Duplex.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.Http.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.NetTcp.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.Primitives.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.Security.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.Syndication.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceProcess.ServiceController.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Speech.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\System.Threading.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.Messages.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.csprojAssemblyReference.cache
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.GeneratedMSBuildEditorConfig.editorconfig
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfoInputs.cache
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CoreCompileInputs.cache
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.MvcApplicationPartsAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.Manifest.cache
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.xml
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\scopedcss\bundle\UAF_Frontend_Registration.styles.css
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.input.cache
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.output.cache
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.RazorCoreGenerate.cache
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\QRCode.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\QRCodeError.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\Success.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CopyComplete
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\fido-Eric\uaf-frontend-enrollment\UAF_Frontend_Registration\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.genruntimeconfig.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\appsettings.Development.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\appsettings.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.deps.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.dev.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.Views.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Humanizer.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\Novell.Directory.Ldap.NETStandard.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.CodeDom.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.ComponentModel.Composition.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.ComponentModel.Composition.Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Composition.AttributedModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Composition.Convention.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Composition.Hosting.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Composition.Runtime.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Composition.TypedParts.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Data.OleDb.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Diagnostics.EventLog.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.DirectoryServices.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.DirectoryServices.AccountManagement.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.IO.Packaging.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Management.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Private.ServiceModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Reflection.Context.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.Duplex.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.Http.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.NetTcp.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.Primitives.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.Security.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceModel.Syndication.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.ServiceProcess.ServiceController.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Speech.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\System.Threading.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.Messages.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.csprojAssemblyReference.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.GeneratedMSBuildEditorConfig.editorconfig
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfoInputs.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CoreCompileInputs.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.MvcApplicationPartsAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.Manifest.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.xml
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\scopedcss\bundle\UAF_Frontend_Registration.styles.css
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.input.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.output.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.RazorCoreGenerate.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\PleaseWait.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\QRCode.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\QRCodeError.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Home\Success.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CopyComplete
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration\obj\Release\net5.0\UAF_Frontend_Registration.genruntimeconfig.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\appsettings.Development.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\appsettings.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\UAF_Frontend_Registration.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\UAF_Frontend_Registration.deps.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.dev.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\UAF_Frontend_Registration.Views.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Humanizer.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\Novell.Directory.Ldap.NETStandard.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.CodeDom.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.ComponentModel.Composition.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.ComponentModel.Composition.Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Composition.AttributedModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Composition.Convention.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Composition.Hosting.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Composition.Runtime.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Composition.TypedParts.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Data.OleDb.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Diagnostics.EventLog.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.DirectoryServices.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.DirectoryServices.AccountManagement.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.IO.Packaging.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Management.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Private.ServiceModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Reflection.Context.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.ServiceModel.Duplex.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.ServiceModel.Http.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.ServiceModel.NetTcp.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.ServiceModel.Primitives.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.ServiceModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.ServiceModel.Security.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.ServiceModel.Syndication.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.ServiceProcess.ServiceController.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Speech.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\System.Threading.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.Messages.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.csprojAssemblyReference.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.GeneratedMSBuildEditorConfig.editorconfig
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfoInputs.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CoreCompileInputs.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.MvcApplicationPartsAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.Manifest.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.xml
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\scopedcss\bundle\UAF_Frontend_Registration.styles.css
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.input.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.output.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.RazorCoreGenerate.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\Home\PleaseWait.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\Home\QRCode.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\Home\QRCodeError.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\Home\Success.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CopyComplete
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_bk\obj\Release\net5.0\UAF_Frontend_Registration.genruntimeconfig.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\appsettings.Development.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\appsettings.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\UAF_Frontend_Registration.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\UAF_Frontend_Registration.deps.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.dev.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\UAF_Frontend_Registration.Views.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Humanizer.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\Novell.Directory.Ldap.NETStandard.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.CodeDom.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.ComponentModel.Composition.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.ComponentModel.Composition.Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Composition.AttributedModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Composition.Convention.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Composition.Hosting.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Composition.Runtime.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Composition.TypedParts.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Data.OleDb.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Diagnostics.EventLog.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.DirectoryServices.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.DirectoryServices.AccountManagement.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.IO.Packaging.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Management.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Private.ServiceModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Reflection.Context.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.ServiceModel.Duplex.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.ServiceModel.Http.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.ServiceModel.NetTcp.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.ServiceModel.Primitives.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.ServiceModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.ServiceModel.Security.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.ServiceModel.Syndication.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.ServiceProcess.ServiceController.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Speech.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\System.Threading.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.Messages.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.csprojAssemblyReference.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.GeneratedMSBuildEditorConfig.editorconfig
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfoInputs.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CoreCompileInputs.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.MvcApplicationPartsAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.Manifest.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.xml
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\scopedcss\bundle\UAF_Frontend_Registration.styles.css
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.input.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.output.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.RazorCoreGenerate.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\Home\PleaseWait.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\Home\QRCode.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\Home\QRCodeError.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\Home\Success.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CopyComplete
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\UAF_Frontend_Registration.genruntimeconfig.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI\obj\Release\net5.0\Razor\Views\Shared\_Nav.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\appsettings.Development.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\appsettings.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\UAF_Frontend_Registration.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\UAF_Frontend_Registration.deps.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.dev.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\UAF_Frontend_Registration.Views.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Humanizer.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Novell.Directory.Ldap.NETStandard.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.CodeDom.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.ComponentModel.Composition.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.ComponentModel.Composition.Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Composition.AttributedModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Composition.Convention.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Composition.Hosting.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Composition.Runtime.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Composition.TypedParts.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Data.OleDb.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Diagnostics.EventLog.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.DirectoryServices.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.DirectoryServices.AccountManagement.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.IO.Packaging.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Management.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Private.ServiceModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Reflection.Context.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.ServiceModel.Duplex.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.ServiceModel.Http.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.ServiceModel.NetTcp.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.ServiceModel.Primitives.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.ServiceModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.ServiceModel.Security.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.ServiceModel.Syndication.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.ServiceProcess.ServiceController.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Speech.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.Threading.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.Messages.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.csprojAssemblyReference.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.GeneratedMSBuildEditorConfig.editorconfig
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfoInputs.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CoreCompileInputs.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.MvcApplicationPartsAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.Manifest.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.xml
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\scopedcss\bundle\UAF_Frontend_Registration.styles.css
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.input.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.output.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.RazorCoreGenerate.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\Home\PleaseWait.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\Home\QRCode.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\Home\QRCodeError.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\Home\Success.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\Shared\_Nav.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CopyComplete
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\obj\Release\net5.0\UAF_Frontend_Registration.genruntimeconfig.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\appsettings.Development.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\appsettings.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\UAF_Frontend_Registration.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\UAF_Frontend_Registration.deps.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.dev.json
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\UAF_Frontend_Registration.Views.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Humanizer.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\Novell.Directory.Ldap.NETStandard.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.CodeDom.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.ComponentModel.Composition.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.ComponentModel.Composition.Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Composition.AttributedModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Composition.Convention.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Composition.Hosting.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Composition.Runtime.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Composition.TypedParts.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Data.OleDb.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Diagnostics.EventLog.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.DirectoryServices.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.DirectoryServices.AccountManagement.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.IO.Packaging.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Management.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Private.ServiceModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Reflection.Context.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.ServiceModel.Duplex.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.ServiceModel.Http.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.ServiceModel.NetTcp.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.ServiceModel.Primitives.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.ServiceModel.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.ServiceModel.Security.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.ServiceModel.Syndication.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.ServiceProcess.ServiceController.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Speech.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\System.Threading.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.Messages.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.GeneratedMSBuildEditorConfig.editorconfig
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfoInputs.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CoreCompileInputs.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.MvcApplicationPartsAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.Manifest.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.xml
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\scopedcss\bundle\UAF_Frontend_Registration.styles.css
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.input.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.output.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.RazorCoreGenerate.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Callback\Index.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Home\PleaseWait.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Home\QRCode.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Home\QRCodeError.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Home\Success.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Shared\_Nav.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\Signin-oidc\Index.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cs
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CopyComplete
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.genruntimeconfig.cache
+D:\fido-Eric\uaf-frontend-enrollment\Rancher\UAF_Frontend_Registration_UI_Dopa - CustomEndpoint\obj\Release\net5.0\UAF_Frontend_Registration.csprojAssemblyReference.cache
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\appsettings.Development.json
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\appsettings.json
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\UAF_Frontend_Registration.exe
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\UAF_Frontend_Registration.deps.json
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.json
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\UAF_Frontend_Registration.runtimeconfig.dev.json
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\UAF_Frontend_Registration.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\UAF_Frontend_Registration.Views.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Humanizer.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\Novell.Directory.Ldap.NETStandard.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.CodeDom.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.ComponentModel.Composition.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.ComponentModel.Composition.Registration.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Composition.AttributedModel.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Composition.Convention.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Composition.Hosting.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Composition.Runtime.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Composition.TypedParts.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Data.Odbc.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Data.OleDb.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Data.SqlClient.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Diagnostics.EventLog.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.DirectoryServices.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.DirectoryServices.AccountManagement.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.DirectoryServices.Protocols.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.IO.Packaging.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.IO.Ports.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Management.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Private.ServiceModel.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Reflection.Context.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.ServiceModel.Duplex.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.ServiceModel.Http.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.ServiceModel.NetTcp.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.ServiceModel.Primitives.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.ServiceModel.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.ServiceModel.Security.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.ServiceModel.Syndication.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.ServiceProcess.ServiceController.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Speech.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\System.Threading.AccessControl.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.Messages.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.csprojAssemblyReference.cache
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfoInputs.cache
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.AssemblyInfo.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CoreCompileInputs.cache
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.MvcApplicationPartsAssemblyInfo.cache
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cache
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.RazorAssemblyInfo.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.Manifest.cache
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\staticwebassets\UAF_Frontend_Registration.StaticWebAssets.xml
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\scopedcss\bundle\UAF_Frontend_Registration.styles.css
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.input.cache
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.TagHelpers.output.cache
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.RazorCoreGenerate.cache
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Callback\Index.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Home\PleaseWait.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Home\QRCode.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Home\QRCodeError.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Home\Success.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Shared\_Nav.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\Signin-oidc\Index.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cache
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.RazorTargetAssemblyInfo.cs
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.Views.pdb
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.csproj.CopyComplete
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\ref\UAF_Frontend_Registration.dll
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.pdb
+D:\User\Downloads\uafdopa-uat\uafdopa-uat\obj\Release\net5.0\UAF_Frontend_Registration.genruntimeconfig.cache

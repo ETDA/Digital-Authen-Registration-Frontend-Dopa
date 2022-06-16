@@ -1,0 +1,31 @@
+﻿
+@using Microsoft.AspNetCore.Http;
+
+@{
+    ViewData["Title"] = "System ERROR";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<partial name="_Nav" />
+
+<br />
+<br />
+
+<div class="text-center">
+    <h1 class="display-4" style="color:red">Sorry... The system may be temporarily error</h1>
+</div>
+
+<br />
+<br />
+
+@using (Html.BeginForm("Register", "Home", FormMethod.Get))
+{
+
+    <div class="text-center">
+        <div class="d-grid gap-2 col-6 mx-auto">
+            <p style="font-size: 25px">Please try again</p><br />
+            <input type="submit" name="submit" class="btn btn-error" value="Back to Home" />
+        </div>
+    </div>
+
+}
